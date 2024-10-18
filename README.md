@@ -1,6 +1,3 @@
-# harvard_cs50
-A repository about what I doing in the Harvard's CS50 Course.
-
 Harvard CS50 Course Projects - This repository contains my solutions and projects from the Harvard CS50 course. Each folder includes code, documentation, and notes (the firsts not but I'm really trying to do more documentation and notes...) for the specific assignments.
 
 ![image](https://github.com/user-attachments/assets/ee624988-4c56-451e-ac1f-3db8186e0276)
